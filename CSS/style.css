@@ -388,7 +388,7 @@ nav {
 }
 /*GAMBAR SKILL SATU MOBILE*/
 .t1{
-  background-image: url(img/py.png);
+  background-image: url(img/py.jpg);
 }
 .t1:hover:before{
   content: "";
@@ -415,7 +415,7 @@ nav {
 
 /*GAMBAR SKILL DUA MOBILE*/
 .t2{
-  background-image: url(img/MC.png);
+  background-image: url(img/MC.jpg);
 }
 .t2:hover:before{
   content: "";
@@ -442,7 +442,7 @@ nav {
 
 /*GAMBAR SKILL TIGA MOBILE*/
 .t3{
-  background-image: url(img/PNTN.png);
+  background-image: url(img/PNTN.jpg);
 }
 .t3:hover:before{
   content: "";
@@ -469,7 +469,7 @@ nav {
 
 /*GAMBAR SKILL EMPAT MOBILE*/
 .t4{
-  background-image: url(img/PTRY.png);
+  background-image: url(img/PTRY.jpg);
 }
 .t4:hover:before{
   content: "";
@@ -496,7 +496,7 @@ nav {
 
 /*GAMBAR SKILL LIMA MOBILE*/
 .t5{
-  background-image: url(img/QTS.png);
+  background-image: url(img/QTS.jpg);
 }
 .t5:hover:before{
   content: "";
