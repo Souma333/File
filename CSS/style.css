@@ -37,7 +37,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: column;
-  background-color: #05c46b !important;
+  background-color: #B60000 !important;
 }
 
 /* NAV SETTINGS*/
@@ -70,8 +70,8 @@ nav {
 }
 
 .nav-item a:hover{
-  color: #05c46b;
-  border-bottom: 2px solid #05c46b;
+  color: #B60000b;
+  border-bottom: 2px solid #B60000;
   transition: all 0.3s ease;
 }
 
@@ -146,7 +146,7 @@ nav {
 }
 
 .garox .content .btn{
-  background-color: #05c46b;
+  background-color: #B60000;
   padding: 10px;
   width: 200px;
   margin: 18px auto;
